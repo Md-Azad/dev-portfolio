@@ -1,0 +1,17 @@
+/* *{
+    background-color: #474747;
+} */
+
+.maindiv{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url("../images/developer.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.img{
+    width: 585px;
+}
